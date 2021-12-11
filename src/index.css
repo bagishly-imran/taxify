@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+a{
+  box-shadow: none !important;
+}
+input {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.user-card{
+  width : 350px;
+  margin: 5px;
+}
