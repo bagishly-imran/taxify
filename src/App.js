@@ -15,6 +15,7 @@ function App() {
 
       <Routes>
         <Route path = '/' exact element = {<Home/>}/>
+        <Route path = '/taxify.io' exact element = {<Home/>}/>
         <Route path = '/customers' exact element = {<Customer/>}/>        
         <Route path = '/drivers' exact element = {<Drivers/>}/>
         <Route path = '/add' exact element = {<AddUser/>}/>
