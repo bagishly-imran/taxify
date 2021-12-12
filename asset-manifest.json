@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/taxify.io/static/css/main.9d8fdfcf.chunk.css",
-    "main.js": "/taxify.io/static/js/main.5f744782.chunk.js",
-    "main.js.map": "/taxify.io/static/js/main.5f744782.chunk.js.map",
-    "runtime-main.js": "/taxify.io/static/js/runtime-main.0ee1e767.js",
-    "runtime-main.js.map": "/taxify.io/static/js/runtime-main.0ee1e767.js.map",
-    "static/js/2.a4216833.chunk.js": "/taxify.io/static/js/2.a4216833.chunk.js",
-    "static/js/2.a4216833.chunk.js.map": "/taxify.io/static/js/2.a4216833.chunk.js.map",
-    "index.html": "/taxify.io/index.html",
-    "static/css/main.9d8fdfcf.chunk.css.map": "/taxify.io/static/css/main.9d8fdfcf.chunk.css.map",
-    "static/js/2.a4216833.chunk.js.LICENSE.txt": "/taxify.io/static/js/2.a4216833.chunk.js.LICENSE.txt"
+    "main.css": "/taxify/static/css/main.9d8fdfcf.chunk.css",
+    "main.js": "/taxify/static/js/main.5f744782.chunk.js",
+    "main.js.map": "/taxify/static/js/main.5f744782.chunk.js.map",
+    "runtime-main.js": "/taxify/static/js/runtime-main.79474ad1.js",
+    "runtime-main.js.map": "/taxify/static/js/runtime-main.79474ad1.js.map",
+    "static/js/2.a4216833.chunk.js": "/taxify/static/js/2.a4216833.chunk.js",
+    "static/js/2.a4216833.chunk.js.map": "/taxify/static/js/2.a4216833.chunk.js.map",
+    "index.html": "/taxify/index.html",
+    "static/css/main.9d8fdfcf.chunk.css.map": "/taxify/static/css/main.9d8fdfcf.chunk.css.map",
+    "static/js/2.a4216833.chunk.js.LICENSE.txt": "/taxify/static/js/2.a4216833.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ee1e767.js",
+    "static/js/runtime-main.79474ad1.js",
     "static/js/2.a4216833.chunk.js",
     "static/css/main.9d8fdfcf.chunk.css",
     "static/js/main.5f744782.chunk.js"
