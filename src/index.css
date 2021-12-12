@@ -16,6 +16,9 @@ code {
 a{
   box-shadow: none !important;
 }
+.nav-btn {
+  width: 22% !important;
+}
 input {
   outline: none !important;
   box-shadow: none !important;
@@ -24,4 +27,10 @@ input {
 .user-card{
   width : 350px;
   margin: 5px;
+}
+
+@media screen and (max-width: 576px){
+  .nav-btn{
+    width: 45% !important;
+  }
 }
